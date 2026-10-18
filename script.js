@@ -46,7 +46,7 @@ function showInvitation() {
 
 // *** تاريخ الفرح — غيّر هنا فقط ***
 // UTC+2 هو توقيت مصر (EET) — ٦ مساءً = 20:٠٠ UTC
-const WEDDING_DATE = '2026-11-30T17:00:00Z';
+const WEDDING_DATE = '2026-10-22T17:00:00Z';
 
 function startCountdown() {
   const target = new Date(WEDDING_DATE);
